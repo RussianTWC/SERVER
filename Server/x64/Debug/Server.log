@@ -1,0 +1,6 @@
+﻿  Server.c
+C:\Users\Kostya\Desktop\C AND S\Server\Server\Server.c(24,31): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+C:\Users\Kostya\Desktop\C AND S\Server\Server\Server.c(27,56): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "sockaddr *"
+  Server.vcxproj -> C:\Users\Kostya\Desktop\C AND S\Server\x64\Debug\Server.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
